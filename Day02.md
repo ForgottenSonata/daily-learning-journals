@@ -1,0 +1,3 @@
+#Day 2 Learning Journal Tuesday 11/8/16
+
+The Codefellows bootcamp style of stack learning modules is already proving to be very challenging and overwhelming. This is only Day 2 and I feel like it's Week 2. However, today I felt some relief and a little less stressed when I sought help from my very accesssible T.A., Stephanie. Johnny was helpful as well. I do feel reassurance knowing that my T.A. said there is no such thing as too many questions and she helped me see the problems in such a way that I was able to fix and solve them myself after hearing her awesome explanations. I also liked installing and utilizing Linter in Atom and would not stop working on the coding assignment until I no longer saw errors.
